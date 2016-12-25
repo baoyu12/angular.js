@@ -113,7 +113,7 @@ AngularJS中文说明 [![Build Status](https://travis-ci.org/angular/angular.js.
 
 在编写客户端web应用的时候，AngularJS能让你感觉就像拥有一款更加智能的浏览器一样。它既允许你使用老式的HTML（或者HAML、Jade/Pug以及其它搭档）作为模板语言，同时也允许你扩展HTML语法，从而可以更加简洁明了地描述应用中的组件。通过双向数据绑定机制，它可以自动在UI(view)和JavaScript对象(model)之间同步数据。为了帮助你更好地组织应用的结构，同时也为了更方便地进行测试，AngularJS还会指导浏览器如何进行依赖注入并反转依赖。
 
-它同时还对与服务端通讯提供了帮助，通过promise和deferred让异步回调变得更加顺畅，同时还利用hashbang url或者HTML5 pushState让客户端导航变成了小菜一碟。最大的优点是什么？它让开发过程变得妙趣横生！
+它同时还对与服务端通讯提供了帮助，通过promise和deferred让异步回调变得更加顺畅，同时还利用hashbang url或者HTML5 pushState让客户端导航变得易如反掌。如果你要问它最大的优点是什么？答案是：它让开发过程变得妙趣横生！
 
 
 * Web站点: https://angularjs.org
